@@ -1,0 +1,5 @@
+19 juni 2022
+- buat page beranda
+- buat page wishlist
+- buat page keranjang
+- buat page akun 
